@@ -1,13 +1,14 @@
 html {
   background-color: lightgray;
 }
-.heading {
 
-}
+.heading {}
+
 .banana {
   text-align: center;
   color: #00c2bb;
 }
+
 .orange {
   text-align: center;
 }
