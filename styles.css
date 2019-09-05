@@ -1,12 +1,13 @@
 html {
-  background-color: lightgray;
+  background-color: #e6e6e6;
 }
 
 .heading {}
 
 .banana {
   text-align: center;
-  color: #00c2bb;
+  color: #0033cc;\
+  font: serif;
 }
 
 .orange {
@@ -21,4 +22,5 @@ html {
   margin-right: auto;
   width: 50%;
   height: 900px;
+  border-radius: 20px;
 }
