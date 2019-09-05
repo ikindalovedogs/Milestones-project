@@ -1,8 +1,11 @@
 html {
   background-color: #e6e6e6;
+  font-family: 'Roboto', sans-serif;
 }
 
-.heading {}
+.heading {
+  font-family: 'Quicksand', sans-serif;
+}
 
 .banana {
   text-align: center;
@@ -22,5 +25,5 @@ html {
   margin-right: auto;
   width: 50%;
   height: 900px;
-  border-radius: 20px;
+  border-radius: 25px;
 }
