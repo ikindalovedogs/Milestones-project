@@ -26,3 +26,39 @@ html {
   height: 900px;
   border-radius: 25px;
 }
+#starfruit {
+  p {font-style: oblique;}
+}
+#somebody {
+  background-color: lightblue;
+  border-radius: 20px;
+  border-color: black;
+}
+#once {
+  background-color: blue;
+  border-radius: 20px;
+  border-color: black;
+  color: white;
+}
+#told {
+  background-color: lightgreen;
+  border-radius: 20px;
+  border-color: black;
+}
+#me {
+  background-color: green;
+  border-radius: 20px;
+  border-color: black;
+  color: white;
+}
+#world {
+  background color: cyan;
+  border-radius: 20px;
+  border-color: black;
+}
+h2 {
+  text-align: center;
+  background-color: lightgreen;
+  border-radius: 20px;
+
+}
