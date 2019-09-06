@@ -9,15 +9,18 @@ html {
 
 .banana {
   text-align: center;
-  color: #0033cc;\
+  color: #0033cc;
+
 }
 
 .orange {
   text-align: center;
 }
+
 #grape {
   text-align: center;
 }
+
 .mango {
   display: block;
   margin-left: auto;
@@ -26,39 +29,49 @@ html {
   height: 900px;
   border-radius: 25px;
 }
+
 #starfruit {
-  p {font-style: oblique;}
+  p {
+    font-style: oblique;
+  }
 }
+
 #somebody {
-  background-color: lightblue;
+  background-color: #31CB00;
   border-radius: 20px;
   border-color: black;
+  color: white;
 }
+
 #once {
-  background-color: blue;
+  background-color: #119822;
   border-radius: 20px;
   border-color: black;
   color: white;
 }
+
 #told {
-  background-color: lightgreen;
-  border-radius: 20px;
-  border-color: black;
-}
-#me {
-  background-color: green;
+  background-color: #2A7221;
   border-radius: 20px;
   border-color: black;
   color: white;
 }
+
+#me {
+  background-color: #1E441E;
+  border-radius: 20px;
+  border-color: black;
+  color: white;
+}
+
 #world {
-  background color: cyan;
+  background color: #152614;
   border-radius: 20px;
   border-color: black;
 }
+
 h2 {
   text-align: center;
   background-color: lightgreen;
   border-radius: 20px;
-
 }
